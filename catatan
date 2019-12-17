@@ -1,0 +1,8 @@
+push to Heroku:
+1. git init
+2. git add . && git commit -m "Initial Commit"
+#install Heroku Cli
+# test : heroku --version
+3. heroku login
+4. heroku create
+5. heroku git:remote -a fierce-hamlet-89130
